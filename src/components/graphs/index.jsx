@@ -11,7 +11,7 @@
 
 export default function Graph() {
   return (
-    <div>
+    <div className="wrapper">
       Graph
     </div>
   )

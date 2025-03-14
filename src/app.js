@@ -23,6 +23,7 @@ export default function App() {
                 <h1>Data structure </h1>
                 <h1 className="data">&</h1>
                 <h1>algorithms</h1>
+                <p>Check the console</p>
               </div>
             }
           />
